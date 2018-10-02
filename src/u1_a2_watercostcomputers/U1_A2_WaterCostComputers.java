@@ -17,7 +17,7 @@ public class U1_A2_WaterCostComputers {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        //start Scanner
+        //declare Scanner
         Scanner keyedInput = new Scanner(System.in);
   
         //state variables
