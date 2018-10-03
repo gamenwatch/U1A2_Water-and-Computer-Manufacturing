@@ -7,7 +7,7 @@
 package u1_a2_watercostcomputers;
 import java.util.Scanner;
 /**
- *Jacob Lacey
+ *Jacob
  *Oct 2 2018
  *To Calculate the Amount of Water it Cost for Users Monitors/Computers w/ their Input
  */
